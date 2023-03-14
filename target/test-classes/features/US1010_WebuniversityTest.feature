@@ -16,5 +16,5 @@ Feature: US1010 WebUniversity Testi
     And Popup'ta cikan yazinin validation failed oldugunu test eder
     And Ok diyerek Popup'i kapatir
     Then Ilk sayfaya geri doner
-    And Ilk sayfaya donuldugunu test ede
+    And Ilk sayfaya donuldugunu test eder
     And tum sayfalari kapatir

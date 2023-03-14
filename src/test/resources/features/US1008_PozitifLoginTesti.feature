@@ -7,5 +7,5 @@ Feature: US1008 gecerli kullanici adi ve sifre ile sisteme giris
     And password olarak "qdGecerliPassword" girer
     And login butonuna basar
     Then basarili olarak giris yapildigini test eder
-    And sayfayi kapatir
+
 
